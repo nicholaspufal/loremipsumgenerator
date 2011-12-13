@@ -1,0 +1,16 @@
+Changelog
+=================
+
+2.0.6
+--------
+
+* (FIXED) Whole buttons are clickable (not just the text part of it).
+
+2.0.5
+---------
+
+* (FIXED) Erroneous alert telling the user the extension could access the browsing history.
+* (ADDED) Donate button (I really want to be able to have more time to focus on my extensions, but I need help for that).
+	
+* Minor code changes. Also did remove some files that were no longer needed.
+	

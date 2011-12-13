@@ -1,0 +1,17 @@
+{
+  "name": "Lorem Ipsum Generator",
+  "version": "2.0.6",
+  "description": "Creates random dummy text.",
+  "options_page" : "generator.html",
+  "background_page" : "background.html",
+  "browser_action": {
+    "default_icon": "images/19.png",  
+    "default_title": "Lorem Ipsum Generator"  
+  },
+  "icons": { 
+    "16": "images/16.png",
+    "32": "images/32.png",
+    "48": "images/48.png",
+    "128": "images/128.png" 
+  }
+}
